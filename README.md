@@ -10,7 +10,7 @@ The Allen Brain Observatory, from the **Allen Institute for Brain Science**, is 
 
 ## Process
 
-An in-detail showcase of our process is available in the `Presentazione V1TA.pdf` file. We highly recommend checking it out. The following is a brief summary of the project-
+An in-detail showcase of our process is available in the `Presentazione V1TA.pdf` file. We highly recommend checking it out. The following is a brief summary of the project.
 
 
 ### Allen Dataset Adaptation
